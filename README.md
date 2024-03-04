@@ -7,7 +7,7 @@ Tech Stack | HTML • CSS • Javascript • React JS • Bootstrap • jQuery �
 
 Databases | MongoDB • MySQL
 
-Tools and Deployment | Figma • Postman • Xampp
+Tools and Deployment | Figma • Postman • Xampp • VS Code • Intelli J • Sublime Text
 
 Additional Skills | Trello • Excel • Photoshop • Sketchup • AutoCad Civil 3D
 
